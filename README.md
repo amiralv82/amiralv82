@@ -2,8 +2,10 @@
 <h3 align="center">💻 Computer Science Student | 🧠 Machine Learning Enthusiast | 📊 Data Explorer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=amiralv82&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
+
+<h1 align="center">Hey there 👋, I'm <span style="color:#0abde3">Amir</span></h1>
 
 ---
 
