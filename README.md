@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Amir</h1>
 <h3 align="center">💻 Computer Science Student | 🧠 Machine Learning Enthusiast | 📊 Data Explorer </h3>
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#0abde3">Amir</span></h1>
-
 ---
 
 ### 🚀 About Me
