@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Amir</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=55E100&center=true&vCenter=true&width=435&lines=Hi+there+I'm+Amir" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">💻 Computer Science Student | 🧠 Machine Learning Enthusiast | 📊 Data Explorer </h3>
 
 ---
@@ -13,6 +15,9 @@
 - ✍️ Passionate about mathematics, clean code, and visual storytelling through data
 
 ---
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralv82&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="top-langs" />
+</p>
 
 ### 🛠️ Languages and Tools
 
