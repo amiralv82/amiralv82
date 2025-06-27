@@ -16,7 +16,7 @@
 
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralv82&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralv82&layout=compact&theme=vision-friendly-dark&langs_count=10" />
 </p>
 
 ### 🛠️ Languages and Tools
